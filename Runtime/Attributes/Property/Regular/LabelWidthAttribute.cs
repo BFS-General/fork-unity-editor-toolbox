@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Diagnostics;
 
-namespace UnityEngine
+namespace Toolbox
 {
     /// <summary>
     /// Change field's label width.

@@ -1,6 +1,7 @@
 ﻿using System;
+using UnityEngine;
 
-namespace UnityEngine
+namespace Toolbox
 {
     /// <summary>
     /// Reference to a class <see cref="System.DateTime"/> with support for Unity serialization.

@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Diagnostics;
 
-namespace UnityEngine
+namespace Toolbox
 {
     /// <summary>
     /// Shows warning message if the provided condition is met.

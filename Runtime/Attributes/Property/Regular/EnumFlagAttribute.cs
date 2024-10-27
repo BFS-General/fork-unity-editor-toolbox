@@ -1,7 +1,8 @@
 ﻿using System;
 using System.Diagnostics;
+using UnityEngine;
 
-namespace UnityEngine
+namespace Toolbox
 {
     /// <summary>
     /// Allows to pick multiple enum values and crates a proper result mask.

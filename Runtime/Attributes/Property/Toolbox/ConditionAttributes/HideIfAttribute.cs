@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Diagnostics;
 
-namespace UnityEngine
+namespace Toolbox
 {
     /// <summary>
     /// Hides serialized field if the provided condition is met.

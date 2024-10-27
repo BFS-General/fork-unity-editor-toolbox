@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Diagnostics;
 
-namespace UnityEngine
+namespace Toolbox
 {
     /// <summary>
     /// Marks serialized field as read-only but only in the PlayMode.

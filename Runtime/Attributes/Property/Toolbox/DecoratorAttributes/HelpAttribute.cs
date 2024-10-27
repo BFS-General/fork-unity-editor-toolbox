@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Diagnostics;
 
-namespace UnityEngine
+namespace Toolbox
 {
     /// <summary>
     /// Creates a HelpBox within the Inspector Window above a serialized field.

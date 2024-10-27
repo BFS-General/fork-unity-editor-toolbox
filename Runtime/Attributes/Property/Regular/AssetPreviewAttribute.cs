@@ -1,12 +1,13 @@
 ﻿using System;
 using System.Diagnostics;
+using UnityEngine;
 
-namespace UnityEngine
+namespace Toolbox
 {
     /// <summary>
     /// Draws additional preview texture for the provided object.
     /// 
-    /// <para>Supported types: any <see cref="Object"/>.</para>
+    /// <para>Supported types: any <see cref="object"/>.</para>
     /// </summary>
     [AttributeUsage(AttributeTargets.Field, AllowMultiple = false, Inherited = true)]
     [Conditional("UNITY_EDITOR")]

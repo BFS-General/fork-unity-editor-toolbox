@@ -1,7 +1,8 @@
 ﻿using System;
 using System.Diagnostics;
+using UnityEngine;
 
-namespace UnityEngine
+namespace Toolbox
 {
     /// <summary>
     /// Draws the left-ordered toggle.

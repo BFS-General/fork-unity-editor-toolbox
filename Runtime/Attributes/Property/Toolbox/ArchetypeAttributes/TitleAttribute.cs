@@ -4,7 +4,7 @@ using System.Diagnostics;
 using UnityEditor;
 #endif
 
-namespace UnityEngine
+namespace Toolbox
 {
     /// <summary>
     /// Standardized header, it's composition of the <see cref="LabelAttribute"/> and the <see cref="LineAttribute"/>.

@@ -1,7 +1,8 @@
 ﻿using System;
 using System.Diagnostics;
+using UnityEngine;
 
-namespace UnityEngine
+namespace Toolbox
 {
     /// <summary>
     /// Will clamp a numeric value between given min and max.

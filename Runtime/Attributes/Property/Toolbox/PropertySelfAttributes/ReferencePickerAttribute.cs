@@ -2,7 +2,7 @@
 using System;
 using System.Diagnostics;
 
-namespace UnityEngine
+namespace Toolbox
 {
     /// <summary>
     /// Creates dedicated drawer for fields marked with the <see cref="SerializeReference"/>.

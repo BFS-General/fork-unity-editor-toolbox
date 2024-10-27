@@ -2,8 +2,9 @@
 using System.Diagnostics;
 
 using Toolbox.Attributes.Property;
+using UnityEngine;
 
-namespace UnityEngine
+namespace Toolbox
 {
     /// <summary>
     /// Replaces old label with <see cref="NewLabel"/> value.

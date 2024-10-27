@@ -1,7 +1,8 @@
 ﻿using System;
 using System.Diagnostics;
+using UnityEngine;
 
-namespace UnityEngine
+namespace Toolbox
 {
     /// <summary>
     /// Validates input values and accepts only children (related to the target component).

@@ -1,7 +1,8 @@
 ﻿using System;
 using System.Diagnostics;
+using UnityEngine;
 
-namespace UnityEngine
+namespace Toolbox
 {
     /// <summary>
     /// Creates a popup window with an input field. Allows to search for enum values by their name.

@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Diagnostics;
 
-namespace UnityEngine
+namespace Toolbox
 {
     /// <inheritdoc cref="ReorderableListAttribute"/>
     /// <remarks>Works in the same way like <see cref="ReorderableListAttribute"/> but additionally allows to override some internal callbacks.</remarks>

@@ -2,8 +2,9 @@
 using System.Diagnostics;
 
 using Toolbox.Attributes.Property;
+using UnityEngine;
 
-namespace UnityEngine
+namespace Toolbox
 {
     /// <summary>
     /// Changes label by the current value of targeted child.

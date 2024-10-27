@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Diagnostics;
 
-namespace UnityEngine
+namespace Toolbox
 {
     /// <summary>
     /// Begins vertical layout of properties. Has to be closed by the <see cref="EndVerticalAttribute"/>.

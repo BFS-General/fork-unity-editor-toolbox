@@ -1,4 +1,4 @@
-﻿namespace UnityEngine
+﻿namespace Toolbox
 {
     public enum GroupStyle
     {

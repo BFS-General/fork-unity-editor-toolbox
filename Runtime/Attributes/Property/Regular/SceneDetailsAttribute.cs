@@ -1,7 +1,8 @@
 ﻿using System;
 using System.Diagnostics;
+using UnityEngine;
 
-namespace UnityEngine
+namespace Toolbox
 {
     /// <summary>
     /// Indicates if <see cref="SerializedScene"/> drawer should show additional metadata about the picked Scene.

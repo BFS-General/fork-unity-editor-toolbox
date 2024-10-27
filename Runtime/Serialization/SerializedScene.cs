@@ -1,12 +1,13 @@
 ﻿using System;
 
 using Toolbox.Serialization;
+using UnityEngine;
 
 #if UNITY_EDITOR
 using UnityEditor;
 #endif
 
-namespace UnityEngine
+namespace Toolbox
 {
     /// <summary>
     /// Custom serializable class used to serialize the <see cref="SceneAsset"/> class.

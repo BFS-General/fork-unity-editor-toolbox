@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Diagnostics;
 
-namespace UnityEngine
+namespace Toolbox
 {
     /// <summary>
     /// Begins indentation group. Has to be closed by the <see cref="EndIndentAttribute"/>.
